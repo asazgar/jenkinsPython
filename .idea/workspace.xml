@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe993e05-f9f0-4d27-b1e3-8a7c98715adc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Automation Camp.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session10_Scroll.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session11_Get_Attribute.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session12_Waits.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session13_Alert_Dialog_Snackbar_Tooltip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session14_Keep_Cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session15_iFrames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session16_CSS_Selectors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session17_Permissions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session18_Run_In_Open_Session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session19_SeleniumWire.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session8_KeyboardActions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session9_MouseActions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionOne-Three/01_WebDriverManager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionOne-Three/02_BrowserActions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionOne-Three/03_ChromeOptions_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionOne-Three/04_ExecuteJavaScript.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionOne-Three/05_TakeScreenshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SessionOne-Three/06_WorkingWithElements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/MainPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/MainPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/LoginTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/LoginTests.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CVltnm1Nevch1sYqK4OEavHfGS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe993e05-f9f0-4d27-b1e3-8a7c98715adc" name="Changes" comment="" />
+      <created>1658895849302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658895849302</updated>
+    </task>
+    <servers />
+  </component>
+</project>
